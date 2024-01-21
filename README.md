@@ -14,27 +14,33 @@ This is a fully functional web application Using MERN stack, here user can signi
 <br>
 <hr>
 <b>Dashboard section</b>
-<img width="960" alt="Screenshot 2023-11-12 140333" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/a2acc7a5-d466-4900-a799-e7004eb42700">
+<img width="960" alt="dashboard" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/1236b543-c212-4442-a0f0-671382dc9a6c">
+
 <hr>
 <b>Find Percentage page</b>
-<img width="960" alt="Screenshot 2023-11-12 140355" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/7b1a8c6c-485b-426f-be0b-1985a4ec2c1d">
+<img width="960" alt="find Percentage" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/d180cf3f-b78c-42ab-b0dd-9d7be8d8cdf7">
+
 <hr>
 <b>Find SGPA page</b>
-<img width="960" alt="Screenshot 2023-11-12 140408" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/7ac1aaa4-288c-42c0-8e1a-6c4e64ad7d01">
+<img width="960" alt="find sgpa" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/1dcf1531-aabe-4018-bc8d-7309a006d148">
+
 <hr>
 <b>GPA Goad Analyzer page:</b>
 According to No of year of a course and no of passout years ygpa fill section dinamically changesHere users can dinamically Analyzes required GPA to obtain target GPAs
 <br>
-<img width="639" alt="Screenshot 2024-01-11 180500" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/bf03112a-7e38-4823-8942-6255e89e19fd">
+<img width="639" alt="Screenshot 2024-01-11 180500" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/d3547ce3-739b-48f2-942d-a100901ef1c4">
+
 
 <hr>
 <h4>responsive for mobile devices</h4>
 
 <br>
-<img width="201" alt="Screenshot 2023-11-12 141127" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/eded18a6-a088-464f-8aaa-a6506232b831">
-<img width="514" alt="Screenshot 2023-11-12 141101" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/636f5e67-5333-4b38-b093-99f44214d4f8">
-<img width="197" alt="Screenshot 2023-11-12 140601" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/4a0b046b-85ee-4d77-a0ed-6985f7c30d03">
-<img width="690" alt="Screenshot 2023-11-12 140453" src="https://github.com/rasimul07/GPA-Calculator/assets/92817106/f2a270cd-6167-4f6e-8356-ca1ec11b5b5f">
+<img width="198" alt="profile" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/93192ae3-79a8-4db5-a295-8c8bb2028585">
+<img width="201" alt="Screenshot 2023-11-12 141127" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/22560df6-1ca9-44f5-ad8e-7c77005de430">
+<img width="197" alt="Screenshot 2023-11-12 140601" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/e8de9425-8a81-46a0-a3c9-7ac250479fd0">
+<img width="196" alt="Screenshot 2023-11-12 140453" src="https://github.com/rasimul07/GPA-Calculalor-Using-MERN-stack/assets/92817106/565a6826-c123-4b9f-9460-4b1cd3980448">
+
+
 
 
 
